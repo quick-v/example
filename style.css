@@ -4,7 +4,8 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #e5ebed;
+  background-color: #f9f9f9;
+  font-size: 16px;
 }
 .container {
   max-width: 700px;
